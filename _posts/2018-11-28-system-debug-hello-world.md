@@ -6,30 +6,16 @@ categories:
 author_staff_member: james_sullivan
 ---
 
-We have been doing monthly hackathons privately at CloudAnswers this year, and would like to make our latest one a public one to open our horizons and find new people to work with.
+We have been doing monthly hackathons privately at CloudAnswers all year and would like to make our latest one a public one in the spirit of hacking.
 
-![Checkmate](https://source.unsplash.com/random/1500x1145)
+## Coding open source
 
-## Textbook definition
+<img src="/images/noun_coding_1455011_000000.png" style="float: right; width: 40%;">
 
-Blah blah 
+We love coding and making new things. The reality is that you can't build everything alone, so you end up depending on npm modules, code you find via google and github, blog posts, python packages, ruby gems, etc. You always _want_ to give back but don't always have the time in the head of the moment to do so, so this time we're trying to do just that - getting open source code out into the world.
 
-## How effective is direct selling?
+All the code in this contest must be open source. You might be concerned that you can't sell your app or build a business on open source code - but that is not true. Look at Redhat, SugarCRM, Reddit, and you'll see that a service is not the lines of code, it's the trust you build with your customers.
 
-asdf
+## Who is putting this thing on?
 
-![Office](https://source.unsplash.com/random/1500x1146)
-
-According to the WFDSA, consumers benefit from direct selling because of the convenience and service it provides, including personal demonstration and explanation of products, home delivery, and generous satisfaction guarantees. In contrast to franchising, the cost for an individual to start an independent direct selling business is typically very low with little or no required inventory or other cash commitments to begin.
-
-Most direct selling associations around the world require their members to abide by a code of conduct towards a fair partnership both with customers and salesmen...
-
-Most national direct selling associations are represented in the World Federation of Direct Selling Associations (WFDSA).
-
-## How's it different to marketing?
-
-Direct selling is distinct from direct marketing because it is about individual sales agents reaching and dealing directly with clients. Direct marketing is about business organizations seeking a relationship with their customers without going through an agent/consultant or retail outlet.
-
-Direct selling consists of two main business models: single-level marketing, in which a direct seller makes money by buying products from a parent organization and selling them directly to customers, and multi-level marketing (also known as network marketing or person-to-person marketing), in which the direct seller makes money from both direct sales to customers and by sponsoring new direct sellers and earning a commission from their efforts.
-
-![Raspberries](https://source.unsplash.com/random/1500x1147)
+We are [CloudAnswers](https://cloudanswers.com), a Salesforce/Heroku consulting company which started in Boston but is globally distributed via a team of work-from-home coders who love building apps for companies.
