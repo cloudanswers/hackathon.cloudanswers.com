@@ -4,7 +4,7 @@
 title: Hydra Template
 url: "https://hackathon.cloudanswers.com"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-38268818-5
 google_maps_javascript_api_key:
 disqus_shortname:
 
