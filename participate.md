@@ -13,6 +13,16 @@ faq:
     answer: a small consulting group named <a href="https://www.cloudanswers.com">CloudAnswers.com</a>
 ---
 
+# HOW TO JOIN
+
+1. Create an account on github.com (you probably already have one)
+
+2. Fork this project site: [https://github.com/cloudanswers/hackathon.cloudanswers.com](https://github.com/cloudanswers/hackathon.cloudanswers.com)
+
+3. Add your project to the projects page by copying the file `./_projects/example.md` to your own project name (eg `my_cool_proj.md`). Commit and open a pull request.
+
+4. Hack and get users ~ we'll get in touch with how to share user counts in an honest way for judging.
+
 # Timeframe
 
 - **Start** December 1, 2018
@@ -21,7 +31,9 @@ faq:
 
 - **Judging Webinar** January 2, 2018
 
-# Grading:
+Maybe you're finding out about this after it's already started - that's ok! If you feel like you still have enough time please join us. Some of us are still working on our ideas, after all.
+
+# Grading
 
 - **50%** number of beta customers (production orgs as active users)
 
@@ -33,23 +45,13 @@ faq:
 
   - **16.5%** business viability: is this a real product
 
-# Open Source:
+# Open Source
 
 Projects must be **open source** on Github where we can validate that commits are happening throughout the project. _This does not mean you can't charge for it._ Your license can be a pervasive license or with an added an exception that no one can use your code for commercial purposes without your permission.
 
 {% if page.faq %}
 
-# Getting Started
-
-1. Create an account on github
-
-2. Fork this project site: https://github.com/cloudanswers/hackathon.cloudanswers.com
-
-3. Add your project to the projects page and open a pull request. Copy the file `./_projects/example.md` to your own project name. Commit and open a pull request.
-
-4. Hack and get users ~ we'll get in touch with how to share user counts in an honest way for judging.
-
-# Participation FAQ
+# FAQ
 
 <dl class="faq">
   {% for item in page.faq %}

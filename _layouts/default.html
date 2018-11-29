@@ -40,10 +40,13 @@
       </div>
     </header>
     {{ content }}
+    <!-- cta -->
+    {% if page.name != 'participate.md' %}
     <section class="bottom-cta">
       <h2 class="editable">Join our <strong>open source</strong> hackathon</h2>
       <div class="button alt"><a href="/participate/">Participate</a></div>
     </section>
+    {% endif %}
 
     <footer>
       <div class="container">
