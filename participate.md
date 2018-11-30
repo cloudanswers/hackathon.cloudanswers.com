@@ -37,13 +37,15 @@ Maybe you're finding out about this after it's already started - that's ok! If y
 
 - **50%** number of beta customers (production orgs as active users)
 
-- **50%** MVP judging panel
+- **50%** judging panel scores
 
   - **16.5%** tech chops: are you a true hacker?
 
   - **16.5%** polish: no, not 🇵🇱, the other kind
 
   - **16.5%** business viability: is this a real product
+
+We typically use a scoring Google Sheet that is collaborated on by the judging panel.  They review the entries together, go offline to judge and update their scores in the spreadsheet, and return to announce the winner. 
 
 # Open Source
 
