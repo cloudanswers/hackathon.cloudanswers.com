@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Hydra Template
+title: CloudAnswers Open Hackathon
 url: "https://hackathon.cloudanswers.com"
 baseurl:
 google_analytics_key: UA-38268818-5
@@ -16,7 +16,7 @@ author:
   email: hackathon@cloudanswers.com
   twitter: cloudanswershackathon
 social:
-  name: Hydra Template
+  name: CloudAnswers Open Hackathon
   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
