@@ -44,11 +44,11 @@ Maybe you're finding out about this after it's already started - that's ok! If y
 
   - **16.5%** tech chops: are you a true hacker?
 
-  - **16.5%** polish: no, not 🇵🇱, the other kind
+  - **16.5%** polish: is it easy to understand and use, or does it have errors everywhere?
 
   - **16.5%** business viability: is this a real product
 
-We typically use a scoring Google Sheet that is collaborated on by the judging panel.  They review the entries together, go offline to judge and update their scores in the spreadsheet, and return to announce the winner. 
+We typically use a scoring Google Sheet that is collaborated on by the judging panel. They review the entries together, go offline to judge and update their scores in the spreadsheet, and return to announce the winner.
 
 # Open Source
 
