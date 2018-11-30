@@ -23,6 +23,9 @@ faq:
 
 4. Hack and get users ~ we'll get in touch with how to share user counts in an honest way for judging.
 
+If you're not familiar with Github we recorded this brief video of the whole process: <Br/>
+[https://drive.google.com/file/d/12q6vO5khv2eFSGeWZcDqvKhLR7s5oZoQ/view](https://drive.google.com/file/d/12q6vO5khv2eFSGeWZcDqvKhLR7s5oZoQ/view)
+
 # Timeframe
 
 - **Start** December 1, 2018
