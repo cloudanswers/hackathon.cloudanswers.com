@@ -13,6 +13,8 @@ faq:
     answer: a small consulting group named <a href="https://www.cloudanswers.com">CloudAnswers.com</a>
 ---
 
+<strong>TLDR: Open source, online (participate anywhere) hackaton focused on making salesforce.com apps.</strong>
+
 # HOW TO JOIN
 
 1. Create an account on github.com (you probably already have one)
