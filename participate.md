@@ -40,17 +40,17 @@ Maybe you're finding out about this after it's already started - that's ok! If y
 
 # Grading
 
-- **50%** number of beta customers (production orgs as active users)
+Judging will be done by a panel of Judges that have extensive experience in the salesforce.com community. Judges will finalized and announced by December 15. Scores will be based on the weighted average of the judges scores in the following areas:
 
-- **50%** judging panel scores
+  - **25%** originality: please don't make a slightly better de-dupe tool. Lets see some creativity.
 
-  - **16.5%** tech chops: are you a true hacker?
+  - **25%** tech chops: are you a true hacker? 
 
-  - **16.5%** polish: is it easy to understand and use, or does it have errors everywhere?
+  - **25%** polish: is it easy to understand and use, or does it have errors everywhere?
 
-  - **16.5%** business viability: is this a real product
+  - **25%** business viability: is this a real product? Get this thing out there and prove that you can get customers. Points awarded for business potential, but winners in this category should prove viability with potential customers - demo your user metrics during the judging webinar and show off sandbox installs, oauth access, production installs, and, for the truly ambitious, any real contracts you can get!
 
-We typically use a scoring Google Sheet that is collaborated on by the judging panel. They review the entries together, go offline to judge and update their scores in the spreadsheet, and return to announce the winner.
+We typically use a scoring Google Sheet that is collaborated on by the judging panel. They review the entries together, go offline to judge and update their scores in the spreadsheet, and return to announce the winner. So winners will be announced on January 2, 2018!
 
 # Open Source
 
