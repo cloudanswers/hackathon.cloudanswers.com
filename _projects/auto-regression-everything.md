@@ -1,13 +1,11 @@
 ---
-name: Auto-Regression Everything (tm)
+name: James Sullivan place-holder
 platform: Force.com and Heroku
 image_path: /images/project_logos/example.png
-repo: /jsullivanlive/auto-regression-everything
-blurb: auto apply popular machine learning on everything in salesforce
+repo: /jsullivanlive/cloudanswers-hackathon-12-2018
+blurb: exploring ideas still, will pick something soon
 ---
 
-blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
+Still working on ideas which are being updated in my readme file:
 
-blah blah blah blah blah blah blah blah blah blah 
-
-blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
+https://github.com/jsullivanlive/cloudanswers-hackathon-12-2018
