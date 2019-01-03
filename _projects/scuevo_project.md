@@ -1,7 +1,7 @@
 ---
 title: Multi Line Input Tables with LWC
 platform: Force.com
-image_path: /images/project_logos/sean-headshot.png
+image_path: /images/project_logos/sean-headshot.jpg
 repo: /seanpat09/dynamicFieldsLWC
 blurb: A dynamic multi line input form using Salesforce's new Lightning Web Components
 ---
