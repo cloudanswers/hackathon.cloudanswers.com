@@ -1,5 +1,5 @@
 ---
-name: Smart Alerts
+title: Smart Alerts
 platform: Force.com
 image_path: /images/project_logos/example.png
 repo: /avinava/hackathon.cloudanswers.com
