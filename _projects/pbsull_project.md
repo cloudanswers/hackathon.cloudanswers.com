@@ -1,5 +1,5 @@
 ---
-name: Table Summary
+title: Table Summary
 platform: Force.com
 image_path: /images/project_logos/example.png
 repo: /patbsull/hackathon.cloudanswers.com

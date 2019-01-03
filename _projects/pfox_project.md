@@ -1,5 +1,5 @@
 ---
-name: Paul's Project
+title: Paul's Project
 platform: Force.com and Heroku
 image_path: /images/project_logos/pf-headshot.png
 repo: Coming soon

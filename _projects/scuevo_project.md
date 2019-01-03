@@ -1,5 +1,5 @@
 ---
-name: Multi Line Input Tables with LWC
+title: Multi Line Input Tables with LWC
 platform: Force.com
 image_path: /images/project_logos/sean-headshot.png
 repo: /seanpat09/dynamicFieldsLWC

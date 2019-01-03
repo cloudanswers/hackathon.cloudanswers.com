@@ -1,5 +1,5 @@
 ---
-name: Example Project
+title: Example Project
 platform: Force.com and Heroku
 image_path: /images/project_logos/example.png
 repo: /cloudanswers/hackathon-example

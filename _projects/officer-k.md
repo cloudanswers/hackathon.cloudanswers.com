@@ -1,5 +1,5 @@
 ---
-name: Officer-K
+title: DBsaver.com (formerly Officer-K)
 platform: Force.com and Heroku
 image_path: /images/project_logos/example.png
 repo: /jsullivanlive/officer-k
