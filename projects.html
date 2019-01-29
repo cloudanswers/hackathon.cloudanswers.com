@@ -1,10 +1,35 @@
 ---
-title: Projects
+title: Current Projects
 description: The official list of projects currently in the competition
 ---
 
+{% for project in site.projects %} {% assign most_recent_date = project.date %}
+{% endfor %}
+
 <ul class="staff">
-  {% for project in site.projects %}
+  {% for project in site.projects %} {% if project.date < most_recent_date %} {%
+  continue %}{% endif %}
+  <li>
+    <a href="{{ project.url }}">
+      <div class="square-image">
+        <img
+          src="{% include relative-src.html src=project.image_path %}"
+          alt="{{ project.name }}"
+        />
+      </div>
+      <div class="name">{{ project.name }}</div>
+    </a>
+    <div class="position">{{ project.blurb }}</div>
+  </li>
+  {% endfor %}
+</ul>
+
+<h2>Past Projects</h2>
+<p class="subtext">Get ideas and check out past hackathon submissions</p>
+
+<ul class="staff">
+  {% for project in site.projects %} {% if project.date >= most_recent_date %}
+  {% continue %}{% endif %}
   <li>
     <a href="{{ project.url }}">
       <div class="square-image">
